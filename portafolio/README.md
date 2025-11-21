@@ -1,16 +1,3 @@
-# portafolio
+//Fue bastante curioso de hacer porque es bastante visual, el proyecto estaba comenzado desde como el tercer dia que se habilitó la actividad, pero yo suelo tener problemas con github a la hora de subir mis proyectos y me da miedo subirlo por partes a no ser de que esté segura de que todo va a estar bien.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+//No fue un proyecto particularmente dificil pero si bastante detallista por todo lo que se tenia que hacer y manejar, admito que en ciertas ocasiones me frustraba y trataba de ver que problema pasaba con ayuda de IA, sobre todo para insertar imagenes y modificar algunos iconos, de resto es bastante personalizable y muy intuitivo.
